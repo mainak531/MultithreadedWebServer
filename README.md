@@ -63,8 +63,10 @@ javac FolderName/*.java
 
 Run Server
 java FolderName.Server
+
 Run Client (if applicable)
 java FolderName.Client
+
 
 ✅ Features
 🔌 TCP Socket-based Communication
