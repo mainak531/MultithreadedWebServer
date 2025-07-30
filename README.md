@@ -7,12 +7,19 @@ This repository contains multiple examples of Java-based client-server architect
 │ ├── Client.java # Basic one-to-one socket communication
 
 │ └── Server.java
+
 ├── Multithreaded/
+
 │ ├── Client.java # Client spawns 100 threads; server handles each in new thread
+
 │ └── Server.java
+
 ├── ThreadPool/
+
 │ └── Server.java # Server uses fixed thread pool to manage client connections
+
 ├── README.md
+
 
 ---
 
