@@ -108,7 +108,7 @@ Response from Server Hello from server /127.0.0.1
 
 ## 🧑‍💻 Author
 
-[Your Name](https://github.com/yourgithub)
+[Mainak](https://github.com/mainak531)
 
 ---
 
@@ -118,15 +118,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ````
 
----
-
-### ✅ Optional Extras You Can Add
-
-- `.gitignore` with:
-```gitignore
-*.class
-*.log
-````
+--
 
 * `LICENSE` file:
 
@@ -137,5 +129,5 @@ MIT License
 
 ---
 
-Let me know if you'd like help **pushing this to GitHub** with Git commands or VS Code, or writing a **combined `.jar` runner** or GUI version later.
+
 
