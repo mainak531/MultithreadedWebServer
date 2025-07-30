@@ -52,7 +52,7 @@ Improves over thread-per-connection by using a fixed-size thread pool to efficie
 ### Compile
 javac FolderName/*.java
 
-##Run Server
+Run Server
 java FolderName.Server
 Run Client (if applicable)
 java FolderName.Client
