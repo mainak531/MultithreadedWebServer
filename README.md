@@ -3,7 +3,9 @@ This repository contains multiple examples of Java-based client-server architect
 ## 📂 Project Structure
 .
 ├── SingleThreaded/
+
 │ ├── Client.java # Basic one-to-one socket communication
+
 │ └── Server.java
 ├── Multithreaded/
 │ ├── Client.java # Client spawns 100 threads; server handles each in new thread
